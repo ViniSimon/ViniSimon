@@ -1,8 +1,8 @@
 ### Olá, Eu sou Vinícius Simon 👋
 
-- 🔭 Atualmente trabalho como Gerente de Novos Negócios em uma Startup de Big Data.
+- 🔭 Gerente de Novos Negócios em uma Startup de Big Data.
 - 🌱 Estudando todos os dias. Phyton > Linguagem R > Data Science > AWS > MySQL > Inglês
-- 👯 Estou realizando uma transição profissional, daqui 1 ano.
+- 👯 Em breve novidades.
 
 
   <div> 
