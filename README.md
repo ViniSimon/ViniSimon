@@ -1,9 +1,10 @@
 ### Olá, Eu sou Vinícius Simon 👋
 
-- 🔭 Gerente de Novos Negócios em uma Startup de Big Data.
-- 🌱 Estudando todos os dias. Phyton > Linguagem R > Data Science > AWS > MySQL > Inglês
-- 👯 Em breve novidades.
+- 🔭 Gerente de Novos Negócios em uma Empresa de Big Data e BI.
+- 🌱 Data Science 
+- 👯 30 anos
 
+![image](https://user-images.githubusercontent.com/91741744/137005598-6b0cc3a6-4ca1-4a21-8860-724d933e4e94.png)
 
   <div> 
 
