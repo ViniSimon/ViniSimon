@@ -1,4 +1,4 @@
-### Olá, Eu sou Vinícius Simon 👋
+### Vinícius Simon 👋
 
 - 🔭 Gerente de Novos Negócios em uma Empresa de Big Data e BI.
 - 🌱 Data Science 
